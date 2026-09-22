@@ -47,7 +47,7 @@ public class VentanaCine extends JFrame {
         setTitle("NovaCinema - Gestión de Cine");
         setContentPane(panelRaiz);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setSize(900, 650);
+        setSize(800, 450);
 
         setLocationRelativeTo(null);
 
